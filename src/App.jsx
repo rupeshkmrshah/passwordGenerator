@@ -91,7 +91,7 @@ function App() {
           
         </div>
         <div className="grid place-content-center mt-7" >
-        <button className="bg-white rounded-xl w-48 " onClick={regenHandler}>
+        <button className="bg-white rounded-xl w-72 " onClick={regenHandler}>
             Click to Generate New Password
         </button>
         </div>
